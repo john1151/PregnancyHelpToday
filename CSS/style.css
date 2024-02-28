@@ -1,0 +1,98 @@
+.one {
+    padding-left: 11%;
+    padding-right: 11%;
+    font-family: "Manrope", sans-serif;
+
+}
+.two {
+    padding-left: 9%;
+    padding-right: 9%;
+    font-family: "Manrope", sans-serif;
+
+}
+.navtitle {
+    font-size: 33px;
+    padding-left: 2%;
+    font-family: "Kaushan Script", cursive;
+}
+.navtitle2 {
+    font-size: 17px;
+    font-family: "Manrope", sans-serif;
+    padding-left: 2%;
+    color: #2b442b;
+}
+#navtitle3 {
+    font-size: 21px;
+    color: #2b442b;
+}
+.navtitle4 {
+    padding-top: 1%;
+    color: #2b442b;
+}
+.firsttitle {
+    font-family: "Manrope", sans-serif;
+    text-align: center;
+    font-size: 60px;
+    padding-right: 17%;
+    letter-spacing: 4px;
+    color: #2b442b;
+}
+p {
+    color: #2b442b;
+    letter-spacing: 1.5px;
+}
+.subheading {
+    font-size: 30px;;
+    color: #2b442b;
+    letter-spacing: 1.5px;
+}
+.background {
+    background-color: #e8e8e8;
+}
+.womaneating {
+    width: 400px;
+    float: right;
+    border: 1.5px solid black;
+}
+.image1 {
+    padding-left: 17px;
+}
+.faqstuff {
+    padding-left: 6%;
+    padding-right: 6%;
+    font-family: "Manrope", sans-serif;;
+}
+.faqinfo {
+    padding-left: 11%;
+    padding-right: 11%;
+    font-family: "Manrope", sans-serif;
+    letter-spacing: 1.5px;
+}
+.womaneating2 {
+    width: 480px;
+    border: 1.5px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar1 {
+    border-bottom: 1px solid black;
+}
+.faqheader {
+    padding-left: 4%;
+    letter-spacing: 1.5px;
+}
+#caption {
+    text-align: center;
+    padding-top: 10px;
+    color: #2b442b;
+}
+.navbar2 {
+    border-top: 1px solid black;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    font-size: 14px;
+}
+.animate__animated.animate__fadeIn {
+    --animate-duration: 2s;
+}
