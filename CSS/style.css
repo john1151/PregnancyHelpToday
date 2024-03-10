@@ -50,7 +50,7 @@ p {
     background-color: #e8e8e8;
 }
 .womaneating {
-    width: 400px;
+    width: 290px;
     float: right;
     border: 1.5px solid black;
     max-width: 100%;
@@ -84,6 +84,17 @@ p {
     height: auto;
     width: auto\9; /* ie8 */
 }
+.womaneating3 {
+    width: 480px;
+    border: 1.5px solid black;
+    display: block;
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
 .navbar1 {
     border-bottom: 1px solid black;
 }
@@ -104,4 +115,14 @@ p {
 }
 .animate__animated.animate__fadeIn {
     --animate-duration: 2s;
+}
+.image4 {
+    width: 660px;
+    margin: auto;
+    display: block;
+    border: 1.5px solid black;;
+}
+.graph {
+    max-width: 640px;
+
 }
